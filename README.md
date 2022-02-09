@@ -2,6 +2,7 @@
 #任务三：Seq2Seq模型实现 (1 week ~ 2 week)
 
 __参考__ ：我们提供了LSTM、Seq2Seq、Attention的参考资料
+
 __环境__ ：在Python下配置python=3.5/numpy/scipy/tqdm/docopt/pytorch/nltk/ torchvision；我们提供了conda的env.yml。
 
 - 实现utils.py中的pad sends函数，对batch中的example进行padding补全。
